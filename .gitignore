@@ -5,6 +5,9 @@
 # earlier versions of Drupal are tracked in `community/PHP/`
 .idea
 
+# Node
+node_modules
+
 # Ignore configuration files that may contain sensitive information
 /web/sites/*/*settings*.php
 /web/sites/*/*services*.yml
@@ -25,7 +28,7 @@
 /web/sites/simpletest
 
 # Ignore drupal core (if not versioning drupal sources)
-/core
+/web/core
 /vendor
 /modules/README.txt
 /profiles/README.txt
