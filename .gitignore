@@ -30,9 +30,10 @@ node_modules
 # Ignore drupal core (if not versioning drupal sources)
 /web/core
 /vendor
-/modules/README.txt
-/profiles/README.txt
-/themes/README.txt
+/web/modules/README.txt
+/web/profiles/README.txt
+/web/themes/README.txt
+/web/themes/contrib
 /web/sites/README.txt
 /web/sites/example.sites.php
 /web/sites/example.settings.local.php
