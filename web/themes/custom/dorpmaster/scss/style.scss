@@ -25,7 +25,15 @@ a {
 }
 
 .site-footer {
-  background: $accent-shade !important;
+  background: $bg-dark !important;
+
+  .nav-link {
+    color: $white-light-shade;
+  }
+
+  .nav-link:hover {
+    color: $white-light;
+  }
 }
 
 .site-name-slogan a {

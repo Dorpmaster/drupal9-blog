@@ -7,6 +7,9 @@ $primary-dark: darken($primary-shade, 12%);
 $accent-shade: #0079c0;
 $accent-light: lighten($accent-shade, 37%);
 $accent-dark: darken($accent-shade, 12%);
+$bg-dark: rgba(0, 0, 0, 0.8);
+$white-light-shade: rgba(255, 255, 255, 0.8);
+$white-light: rgba(255, 255, 255, 0.98);
 // Reassign color vars to semantic color scheme
 $red: #dc3545;
 $yellow: #ffc107;
